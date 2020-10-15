@@ -3,7 +3,6 @@
 ***
 
 <!-- [![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/scandipwa/base.svg)](https://hub.docker.com/r/scandipwa/base) -->
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d90631c26cab4c459180a57a2b1268dc)](https://www.codacy.com/app/ScandiPWA/scandipwa-base?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=scandipwa/scandipwa-base&amp;utm_campaign=Badge_Grade)
 [![Explore documentation](https://img.shields.io/badge/explore-documentation-orange)](https://docs.scandipwa.com/)
 [![Join community Slack](https://img.shields.io/badge/join-community%20slack-brightgreen)](https://join.slack.com/t/scandipwa/shared_invite/enQtNzE2Mjg1Nzg3MTg5LTQwM2E2NmQ0NmQ2MzliMjVjYjQ1MTFiYWU5ODAyYTYyMGQzNWM3MDhkYzkyZGMxYTJlZWI1N2ExY2Q1MDMwMTk)
 
@@ -25,9 +24,8 @@ ScandiPWA is based on React and utilizes GraphQL API of Magento 2.3.
 
 See what we have for you:
 - [Video Tutorials](https://www.youtube.com/playlist?list=PLy0PoJ53Gjy3iHQmsZCD1WAazhyS03l-y)
-- [Weekly webinars](https://www.youtube.com/channel/UCvnxo7rh5NRwvMHtJga9fww/videos)
 - [ScandiPWA Documentation](https://docs.scandipwa.com/)
-- [FAQ Page](https://docs.scandipwa.com/docs/installing.html)
+- [FAQ Page](https://docs.scandipwa.com/faq/installation)
 
 **Your question was not covered?**
 Join our community [Slack channel](https://join.slack.com/t/scandipwa/shared_invite/enQtNzE2Mjg1Nzg3MTg5LTQwM2E2NmQ0NmQ2MzliMjVjYjQ1MTFiYWU5ODAyYTYyMGQzNWM3MDhkYzkyZGMxYTJlZWI1N2ExY2Q1MDMwMTk) and ask the core team directly! 
@@ -42,11 +40,9 @@ We recommend using it as:
 - Rendertrone out of the box
 - It has a development-friendly setup
 
->**NOTE!** Currently, the docker setup is supported only for Linux.
-
 ### Ready to try?
 
-Follow the guide for [Docker setup on Linux](https://docs.scandipwa.com/docs/linux.html) or watch the video guide.
+Follow the guide for [Docker setup on Linux](https://docs.scandipwa.com/start-and-upgrade/linux-docker-setup) or [Docker setup on Mac](https://docs.scandipwa.com/start-and-upgrade/mac-docker-setup) or watch the video guide.
 
 [![docker install](https://i.ibb.co/0MpPFXL/Group-5.png)](https://www.youtube.com/watch?v=IOXSBcCBvCw&list=PLy0PoJ53Gjy3iHQmsZCD1WAazhyS03l-y&index=1)
 
@@ -58,7 +54,7 @@ ScandiPWA is a regular Magento theme. You can install it on the existing Magento
 
 ### Ready to try?
 
-Follow the guide for [setup on existing Magento](https://docs.scandipwa.com/docs/on-existing-m2.html) or watch the video guide.
+Follow the guide for [setup on existing Magento](https://docs.scandipwa.com/how-to-tutorials-intermediate/installation-on-existing-magento-2-sever) or watch the video guide.
 
 [![existing M2 setup](https://i.ibb.co/1Xc12Pd/Group-8.png)](https://www.youtube.com/watch?v=JfvC3PcaHPU&list=PLy0PoJ53Gjy3iHQmsZCD1WAazhyS03l-y&index=2)
 
@@ -70,7 +66,7 @@ If you are not planning to developer a back-end functionality, but to modify the
 
 ### Ready to try?
 
-Follow the guide for [setup with remote M2 server](https://docs.scandipwa.com/docs/with-remote-m2.html).
+Follow the guide for [setup with remote M2 server](https://docs.scandipwa.com/start-and-upgrade/setting-up-the-theme-with-remote-m2-server).
 
 ## Modularity
 
